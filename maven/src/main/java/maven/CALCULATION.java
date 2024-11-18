@@ -15,7 +15,7 @@ public class CALCULATION {
 			{
 				CALCULATION c1= new CALCULATION();
 						c1.c=1000000;
-						c1.b=50000;
+						c1.b=60000;
 						int r=c1.sum();
 						System.out.println(r);
 			
